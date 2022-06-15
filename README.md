@@ -1,1 +1,5 @@
 # Renewable-Energy-Investment-Dashboard
+
+It's imperative to look at renewable energy investment as one of the most important markets for the next couple of decades. Whether it's dependence on exported fossil fuels swaying poltical agendas, the high cost and supply chain uncertainies of fossil fuel energy production, or the improvement of the current global environmental position, everyone around the globe is on notice. Superpowers to developing nations understand that financial allocation is the groundwork to this issue. 
+
+For This project, we take a dive into the different investment trends for nations of all sizes from 2010 to 2020. From this data we uncover trends between developed nations and growing nations that make unique efforts to improve their renewable energy production. We will uncover unique situations that require us to take a look into other factors that left some countries making drastic swings over this time period. This dashboard uses renewable invesment data taken from standardized sources including IRENA (International Renewable Energy Agency) and IEA (International Energy Agency). 
